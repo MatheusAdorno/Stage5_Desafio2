@@ -211,6 +211,8 @@ input[type='range']::-webkit-slider-thumb {
     left: 45.5%;
     margin-bottom: 4rem;
     margin-top: -3rem;
+    width: 4.4rem;
+    height: 4.4rem;
   }
 
   main {
